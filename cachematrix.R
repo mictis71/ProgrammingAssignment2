@@ -4,6 +4,10 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
+	## x is the matrix to be inversed
+	
+	## returns a vector containing four functions
+	## get, set, getinverse and setinverse
 
 }
 
